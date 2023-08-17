@@ -64,4 +64,12 @@ that having to use a CLI.
 
 - Python3, came automatically right out of the box.
 
+### Terminal
+
+The Terminal application can be accessed in multiple different ways...;  
+but, my favourite way to access it is to, simly, press the [Windows picture icon] key;  
+and, now, you have two choices...  
+- Select the Terminal application from the sidebar  
+- Type into the textbox the word: Terminal   
+
 
