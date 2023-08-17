@@ -24,6 +24,7 @@ when I decided to try...
 **THERE ARE MANY DIFFERENT VERSIONS OF LINUX OS/OPERATING SYSTEM TO CHOOSE FROM..???**  
 
 Linux Mint OS is just one of many possible Linux OS'es that it's possible to select from;  
+-(in fact, not to confuse things too much; but, there are quite literally 100's of different Linux OS...?!)-;  
 I choose this OS, in particular, because I heard it was relatively simple and easy to use,  
 especially, for those people who are Windows users.  
 
