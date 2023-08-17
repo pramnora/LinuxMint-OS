@@ -50,7 +50,14 @@ that having to use a CLI.
 
 ## Links
 
+### Official site
+
 - https://www.linuxmint.com  
 - https://www.linuxmint.com/download.php  
 - https://www.linuxmint.com/documentation.php
+
+### Editors
+
+- https://github.com/linuxmint/xed  
+
 
