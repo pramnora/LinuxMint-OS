@@ -58,6 +58,6 @@ that having to use a CLI.
 
 ### Editors
 
-- https://github.com/linuxmint/xed - (xed, is a MDI/Multiple Document Interface, or, 'tabbed' text editor...; thus, allowing you to have open multiple different file types, all together at once; you can switch tab order by using simple 'drag and drop'; it also uses 'syntax highlighting' for: CSS/HTML/-etc. All of the normal text editing commands works: [CTRL]+[S] Save/[C] Copy/[X] Cut/[V] Paste/-etc.) 
+- https://github.com/linuxmint/xed - (xed, is a MDI/Multiple Document Interface, or, 'tabbed' text editor...; thus, allowing you to have open multiple different file types, all together at once; you can switch tab order by using simple 'drag and drop'; it also uses 'syntax highlighting' for: CSS/HTML/-etc. All of the normal text editing commands works: [CTRL]+[S] Save/[C] Copy/[X] Cut/[V] Paste/[N] New tab/[W] close current tab/[Q] Quit editor/-etc.) 
 
 
