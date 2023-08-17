@@ -1,8 +1,8 @@
 # LinuxMint-OS
 LinuxMint OS
 
-Created: Thu 17th Aug 2023 06:21 AM GMT  
-Updated: Thu 17th Aug 2023 13:30 PM GMT  
+**Page created**: Thu 17th Aug 2023 06:21 AM GMT  
+**Last updated**: Thu 17th Aug 2023 13:30 PM GMT  
 
 -----
 
