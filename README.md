@@ -27,9 +27,11 @@ Linux Mint OS is just one of many possible Linux OS'es that it's possible to sel
 I choose this OS, in particular, because I heard it was relatively simple and easy to use,  
 especially, for those people who are Windows users.  
 
-The first time I used Linux it was Ubuntu GUI/Graphical User Interface;  
-the next time, I used Linux RaspberryPi OS...SBC/Small Board Computer;    
-and, another time I tried using Linode Ubuntu CLI/Command Line Interface...    
+Below, is my own history of using Linux...
+
+1> Ubuntu GUI/Graphical User Interface;  
+2> Linux RaspberryPi OS...SBC/Small Board Computer;      
+3> Linode Ubuntu CLI/Command Line Interface...    
 SSH/Secure Socket Shell-into it through Windows Command Prompt/  
 and, also, connecting through Putty/and, Filezilla FTP software.   
 
