@@ -72,6 +72,12 @@ The Terminal application can be accessed in multiple different ways...;
 but, my favourite way to access it is to, simply, press the [Windows picture icon] key;  
 and, now, you have two choices...  
 - Select the Terminal application icon from the sidebar by clicking on it with your mouse  
-- Type into the textbox the word: Terminal...and, then, press [Enter]   
+- Type into the textbox the word: Terminal...and, then, press [Enter]
+
+### Saving files
+
+If you are just popping into the CD/DVD tray a burned version of Linux OS;  
+then, you will still have access to any external drives that are already plugged in;  
+this means you can save files very quickly and easily to your chosen external drive/or, mixture of external drives.
 
 
