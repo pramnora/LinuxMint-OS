@@ -36,4 +36,11 @@ as I had already finished downloading 2 x Linux OS:
 ...I'd already had some previous experience of using Ubuntu GUI before;  
 but, nil experience of using Linux Mint; so, as I wanted to try something 'new'...;  
 threfore, I decided to load Linux Mint OS, first;  
-whereas the use of Ubuntu LTS can wait until, later on.   
+whereas the use of Ubuntu LTS can wait until, later on.
+
+-----  
+
+## Links
+
+- https://www.linuxmint.com
+- https://www.linuxmint.com/download.php  
