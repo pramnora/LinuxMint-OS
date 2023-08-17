@@ -62,6 +62,7 @@ that having to use a CLI.
 
 I found it was very important to access System Settings...  
 
+- choose keyboard 'language': English UK  
 - adjust the 'display' to suit you own screen size/eye sight  
 - adjust the 'time and date' to suit your own country time zone  
 
