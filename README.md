@@ -67,9 +67,9 @@ that having to use a CLI.
 ### Terminal
 
 The Terminal application can be accessed in multiple different ways...;  
-but, my favourite way to access it is to, simly, press the [Windows picture icon] key;  
+but, my favourite way to access it is to, simply, press the [Windows picture icon] key;  
 and, now, you have two choices...  
-- Select the Terminal application from the sidebar  
-- Type into the textbox the word: Terminal   
+- Select the Terminal application icon from the sidebar by clicking on it with your mouse  
+- Type into the textbox the word: Terminal...and, then, press [Enter]   
 
 
