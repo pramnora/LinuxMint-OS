@@ -35,8 +35,8 @@ and, also, connecting through Putty/and, Filezilla FTP software.
 
 But, this time, I had two choices left open to me...  
 as I had already finished downloading 2 x Linux OS: 
-- Ubuntu LTS  
-- Linux Mint 21.2 "Victoria"   
+- Ubuntu LTS/Long Term Support  
+- Linux Mint LTS 21.2 "Victoria"   
 ...I'd already had some previous experience of using Ubuntu GUI before;  
 but, nil experience of using Linux Mint; so, as I wanted to try something 'new'...;  
 threfore, I decided to load Linux Mint OS, first;  
