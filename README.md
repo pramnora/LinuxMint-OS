@@ -4,7 +4,9 @@ LinuxMint OS
 Created: Thu 17th Aug 2023 06:21 AM GMT  
 Updated: Thu 17th Aug 2023 06:21 AM GMT  
 
-MY OWN SET UP
+-----
+
+**MY OWN SET UP**  
 
 Previously, I was using Windows 10 Professional OS/Operating System;     
 when I decided to try...  
@@ -17,7 +19,9 @@ when I decided to try...
 - Rebooted, again...;  
 - next time, Linux Mint was the OS which booted up/(instead of Windows)  
 
-THERE ARE MANY DIFFERENT VERSIONS OF LINUX TO CHOOSE FROM..???  
+-----
+
+**THERE ARE MANY DIFFERENT VERSIONS OF LINUX TO CHOOSE FROM..???**  
 
 Linux Mint OS is just one of many possible Linux OS'es that it's possible to select from;  
 I choose this OS, in particular, because I heard it was relatively simple and easy to use,  
