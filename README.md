@@ -42,6 +42,10 @@ but, nil experience of using Linux Mint; so, as I wanted to try something 'new'.
 threfore, I decided to load Linux Mint OS, first;  
 whereas the use of Ubuntu LTS can wait until, later on.
 
+My own experience so far...is that Linux Mint...works pretty much like using Ubuntu LTS.    
+The fact that it's a GUI...also, makes it much easier/and, more instinctive to use    
+that having to use a CLI.  
+
 -----  
 
 ## Links
