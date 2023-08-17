@@ -50,5 +50,7 @@ that having to use a CLI.
 
 ## Links
 
-- https://www.linuxmint.com
+- https://www.linuxmint.com  
 - https://www.linuxmint.com/download.php  
+- https://www.linuxmint.com/documentation.php
+
