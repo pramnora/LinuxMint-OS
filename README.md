@@ -21,16 +21,16 @@ when I decided to try...
 
 -----
 
-**THERE ARE MANY DIFFERENT VERSIONS OF LINUX TO CHOOSE FROM..???**  
+**THERE ARE MANY DIFFERENT VERSIONS OF LINUX OS/OPERATING SYSTEM TO CHOOSE FROM..???**  
 
 Linux Mint OS is just one of many possible Linux OS'es that it's possible to select from;  
 I choose this OS, in particular, because I heard it was relatively simple and easy to use,  
 especially, for those people who are Windows users.  
 
-The first time I used Linux it was Ubuntu GUI;  
+The first time I used Linux it was Ubuntu GUI/Graphical User Interface;  
 the next time, I used Linux RaspberryPi OS...SBC/Small Board Computer;    
-and, another time I tried using Linode Ubuntu CLI...    
-SSD-into it through Windows Command Prompt/  
+and, another time I tried using Linode Ubuntu CLI/Command Line Interface...    
+SSH/Secure Socket Shell-into it through Windows Command Prompt/  
 and, also, connecting through Putty/and, Filezilla FTP software.   
 
 But, this time, I had two choices left open to me...  
