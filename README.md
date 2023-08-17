@@ -24,5 +24,16 @@ I choose this OS, in particular, because I heard it was relatively simple and ea
 especially, for those people who are Windows users.  
 
 The first time I used Linux it was Ubuntu GUI;  
-the next time I used Linux RaspberryPi OS;  
-and, another time I tried using Ubuntu CLI.  
+the next time, I used Linux RaspberryPi OS...SBC/Small Board Computer;    
+and, another time I tried using Linode Ubuntu CLI...    
+SSD-into it through Windows Command Prompt/  
+and, also, connecting through Putty/and, Filezilla FTP software.   
+
+But, this time, I had two choices left open to me...  
+as I had already finished downloading 2 x Linux OS: 
+- Ubuntu LTS  
+- Linux Mint  
+...I'd already had some previous experience of using Ubuntu GUI before;  
+but, nil experience of using Linux Mint; so, as I wanted to try something 'new'...;  
+threfore, I decided to load Linux Mint OS, first;  
+whereas the use of Ubuntu LTS can wait until, later on.   
