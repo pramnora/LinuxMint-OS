@@ -95,4 +95,15 @@ If you are just popping into the CD/DVD tray a burned version of Linux OS;
 then, you will still have access to any external drives that are already plugged in;  
 this means you can save files very quickly and easily to your chosen external drive/or, mixture of external drives.
 
+### Loading a web page into Firefox web browser
+
+At the terminal just type in...  
+
+> firefox webpageName.html  
+
+...and, then, when you press the [Enter] key...that web page will load up inside of your Firefox web browser ready for viewing.  
+
+
+
+
 
