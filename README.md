@@ -2,7 +2,7 @@
 LinuxMint OS
 
 **Page created**: Thu 17th Aug 2023 06:21 AM GMT  
-**Last updated**: Thu 17th Aug 2023 13:30 PM GMT  
+**Last updated**: Fri 23rd May 2025 16:02 PM GMT  
 
 -----
 
@@ -102,6 +102,16 @@ At the terminal just type in...
 > firefox webpageName.html  
 
 ...and, then, when you press the [Enter] key...that web page will load up inside of your Firefox web browser ready for viewing.  
+
+### Installing programming languages
+
+(230525 16:03 PM GMT)  
+Install CLISP Programming language...  
+> sudo apt install clisp  
+...run...  
+> clisp  
+> (+ 3 3)  
+> 6  
 
 
 
