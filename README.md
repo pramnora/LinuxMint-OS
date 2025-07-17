@@ -2,7 +2,7 @@
 LinuxMint OS
 
 **Page created**: Thu 17th Aug 2023 06:21 AM GMT  
-**Last updated**: Thu 17th Aug 2023 13:30 PM GMT  
+**Last updated**: Thu 17th Jul 2025 21:22 PM GMT  
 
 -----
 
@@ -103,7 +103,12 @@ At the terminal just type in...
 
 ...and, then, when you press the [Enter] key...that web page will load up inside of your Firefox web browser ready for viewing.  
 
+-----
 
+YouTube Videos
+
+Linux Mint Cinnamon: 10 Things To Do After Installing - (Channel: Burn Barrel Media)  
+- https://www.youtube.com/watch?v=TrbB0WwywOQ  
 
 
 
