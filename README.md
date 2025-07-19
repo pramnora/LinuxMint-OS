@@ -124,6 +124,9 @@ I Tried LMDE 6 and It BLEW MY MIND - Here's Why! (EXCLUSIVE) - (Channel: Linux T
 - https://www.youtube.com/watch?v=bQKbRyPv6Qc  
 
 Linux Mint vs. Linux Mint Debian Edition: Which Is Better? - (Channel: Learn Linux TV)  
-- https://www.youtube.com/watch?v=Yg_kfQxKlXo  
+- https://www.youtube.com/watch?v=Yg_kfQxKlXo
+
+Is Linux Mint BETTER Than Windows? - (Channel: Techquicke)  
+- https://www.youtube.com/watch?v=499jqHWZ-Ts  
 
 
