@@ -121,7 +121,9 @@ At the terminal just type in...
 ## YouTube Videos
 
 Linux Mint Beginner Guide! (EVERYTHING you need to know to start with Linux Mint!) - (Channel: Linux for all)  
-- https://www.youtube.com/watch?v=ERvPga0sF8M  
+- https://www.youtube.com/watch?v=ERvPga0sF8M
+ 
+-----
 
 Linux Mint Cinnamon: 10 Things To Do After Installing - (Channel: Burn Barrel Media)  
 - https://www.youtube.com/watch?v=TrbB0WwywOQ  
