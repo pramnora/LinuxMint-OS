@@ -126,6 +126,9 @@ YouTube Videos
 Linux Mint Cinnamon: 10 Things To Do After Installing - (Channel: Burn Barrel Media)  
 - https://www.youtube.com/watch?v=TrbB0WwywOQ  
 
+10 To-Dos after installing Linux Mint | Tutorial for Beginners - (Channel: Linux Ort)    
+- https://www.youtube.com/watch?v=-DN2nD-iw7s  
+
 -----
 
 ATTENTION Linux Mint users! - (Channel: FOSS & Linux Journal)  
