@@ -132,8 +132,11 @@ Linux Mint Cinnamon: 10 Things To Do After Installing - (Channel: Burn Barrel Me
 Linux Mint tips everyone should know - For beginners - (Channel: Linux Ort)  
 - https://www.youtube.com/watch?v=IznQ84dxKPY
 
-5  TWEAKS that improve Linux Mint! - (Channel: InfinitelyGalatic)  
-- https://www.youtube.com/watch?v=E_SiHxA3QY0   
+5  TWEAKS that improve Linux Mint! - (Channel: InfinitelyGalactic)  
+- https://www.youtube.com/watch?v=E_SiHxA3QY0
+
+Optimize Linux Mint: Must-Do Tweaks After Setup - (Channel: NH Soft)  
+- https://www.youtube.com/watch?v=D9OfpxFgR08  
 
 -----
 
