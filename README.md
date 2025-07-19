@@ -2,7 +2,7 @@
 LinuxMint OS
 
 **Page created**: Thu 17th Aug 2023 06:21 AM GMT  
-**Last updated**: Thu 17th Jul 2025 21:22 PM GMT  
+**Last updated**: Thu 19th Jul 2025 15:03 PM GMT  
 
 -----
 
@@ -110,5 +110,6 @@ YouTube Videos
 Linux Mint Cinnamon: 10 Things To Do After Installing - (Channel: Burn Barrel Media)  
 - https://www.youtube.com/watch?v=TrbB0WwywOQ  
 
-
+ATTENTION Linux Mint users! - (Channel: FOSS & Linux Journal)  
+- https://www.youtube.com/watch?v=TxHtIhw00uM  
 
