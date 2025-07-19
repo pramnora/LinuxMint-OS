@@ -68,6 +68,7 @@ I found it was very important to access System Settings...
 - choose keyboard 'language': English UK  
 - adjust the 'display' to suit you own screen size/eye sight  
 - adjust the 'time and date' to suit your own country time zone  
+- update the Linux repository with: sudo apt update && apt upgrade -yy  
 
 -----
 
