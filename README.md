@@ -130,3 +130,7 @@ Is Linux Mint BETTER Than Windows? - (Channel: Techquicke)
 - https://www.youtube.com/watch?v=499jqHWZ-Ts  
 
 
+### YouTube Videos (Shorts)  
+
+Linux Mint VS Ubuntu - (Channel: CodeInc)  
+- https://www.youtube.com/shorts/rj1UJEq4HrY  
