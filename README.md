@@ -118,10 +118,10 @@ At the terminal just type in...
 
 -----
 
+## YouTube Videos
+
 Linux Mint Beginner Guide! (EVERYTHING you need to know to start with Linux Mint!) - (Channel: Linux for all)  
 - https://www.youtube.com/watch?v=ERvPga0sF8M  
-
-YouTube Videos
 
 Linux Mint Cinnamon: 10 Things To Do After Installing - (Channel: Burn Barrel Media)  
 - https://www.youtube.com/watch?v=TrbB0WwywOQ  
@@ -150,6 +150,8 @@ I Tried LMDE 6 and It BLEW MY MIND - Here's Why! (EXCLUSIVE) - (Channel: Linux T
 
 Linux Mint vs. Linux Mint Debian Edition: Which Is Better? - (Channel: Learn Linux TV)  
 - https://www.youtube.com/watch?v=Yg_kfQxKlXo
+
+-----
 
 Is Linux Mint BETTER Than Windows? - (Channel: Techquicke)  
 - https://www.youtube.com/watch?v=499jqHWZ-Ts  
