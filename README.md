@@ -59,6 +59,8 @@ that having to use a CLI.
 - https://www.linuxmint.com/download.php  
 - https://www.linuxmint.com/documentation.php
 
+-----
+
 ### Initial set up
 
 I found it was very important to access System Settings...  
@@ -66,6 +68,8 @@ I found it was very important to access System Settings...
 - choose keyboard 'language': English UK  
 - adjust the 'display' to suit you own screen size/eye sight  
 - adjust the 'time and date' to suit your own country time zone  
+
+-----
 
 ### Editors
 
@@ -77,9 +81,13 @@ I tried using Nano editor...which I was used to using inside of the Ubuntu Termi
 
 - https://github.com/linuxmint/xed - (xed, is a MDI/Multiple Document Interface, or, 'tabbed' text editor...; thus, allowing you to have open multiple different file types, all together at once; you can switch tab order by using simple 'drag and drop'; it also uses 'syntax highlighting' for: CSS/HTML/-etc. All of the normal text editing commands works: [CTRL]+[S] Save/[C] Copy/[X] Cut/[V] Paste/[Z] Undo/[Y] Redo/[N] New tab/[W] close current tab/[Q] Quit editor/-etc.) 
 
+-----
+
 ### Programming
 
 - Python3, came automatically right out of the box.
+
+-----
 
 ### Terminal
 
@@ -89,11 +97,15 @@ and, now, you have two choices...
 - Select the Terminal application icon from the sidebar by clicking on it with your mouse  
 - Type into the textbox the word: Terminal...and, then, press [Enter]
 
+-----
+
 ### Saving files
 
 If you are just popping into the CD/DVD tray a burned version of Linux OS;  
 then, you will still have access to any external drives that are already plugged in;  
 this means you can save files very quickly and easily to your chosen external drive/or, mixture of external drives.
+
+-----
 
 ### Loading a web page into Firefox web browser
 
