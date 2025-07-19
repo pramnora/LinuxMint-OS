@@ -141,6 +141,9 @@ Optimize Linux Mint: Must-Do Tweaks After Setup - (Channel: NH Soft)
 9 Things To Do After Installing Linux ... - (Channel: Michael Horn)  
 - https://www.youtube.com/watch?v=XYDQK5i0tmY  
 
+18 Things You MUST DO After Installing Linux Mint 22 (Right Now!) - (Channel: Linux Tex)  
+- https://www.youtube.com/watch?v=kV8Hu54zhbA  
+
 -----
 
 ATTENTION Linux Mint users! - (Channel: FOSS & Linux Journal)  
