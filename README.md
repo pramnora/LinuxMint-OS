@@ -113,3 +113,6 @@ Linux Mint Cinnamon: 10 Things To Do After Installing - (Channel: Burn Barrel Me
 ATTENTION Linux Mint users! - (Channel: FOSS & Linux Journal)  
 - https://www.youtube.com/watch?v=TxHtIhw00uM  
 
+Linux Mint 21 or LMDE 5 – what to take? - (Channel: FOSS & Linux Journal)   
+- https://www.youtube.com/watch?v=V1wT_wtpNnE 
+
