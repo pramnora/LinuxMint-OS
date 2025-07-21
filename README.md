@@ -2,7 +2,7 @@
 LinuxMint OS
 
 **Page created**: Thu 17th Aug 2023 06:21 AM GMT  
-**Last updated**: Sat 19th Jul 2025 21:06 PM GMT  
+**Last updated**: Mon 21st Jul 2025 13:05 PM GMT  
 
 -----
 
@@ -145,6 +145,9 @@ Optimize Linux Mint: Must-Do Tweaks After Setup - (Channel: NH Soft)
 
 18 Things You MUST DO After Installing Linux Mint 22 (Right Now!) - (Channel: Linux Tex)  
 - https://www.youtube.com/watch?v=kV8Hu54zhbA  
+
+16 Things To Do After Installing Linux Mint 22 - (Channel: ZachsTech)    
+- https://www.youtube.com/watch?v=J30XIUNJPe4  
 
 -----
 
