@@ -131,6 +131,12 @@ Linux Mint Beginner Guide! (EVERYTHING you need to know to start with Linux Mint
 FlatHub  
 - https://flathub.org/en  
 
+### Downloaded
+
+- https://github.com/nokse22  (Mini Text/Wed 100925/Clipboard viewer)  
+- https://gitlab.gnome.org/Bharatkalluri/short-circuit  (Short-Circuit/Wed 100925/Clipboard encoder-decoder)  
+
+
 -----
 
 Linux Mint Cinnamon: 10 Things To Do After Installing - (Channel: Burn Barrel Media)  
