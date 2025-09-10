@@ -97,6 +97,7 @@ but, my favourite way to access it is to, simply, press the [Windows picture ico
 and, now, you have two choices...  
 - Select the Terminal application icon from the sidebar by clicking on it with your mouse  
 - Type into the textbox the word: Terminal...and, then, press [Enter]
+- Or, even better: [CTRL]+[SHIFT]+[T]  
 
 -----
 
