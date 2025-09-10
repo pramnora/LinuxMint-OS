@@ -2,7 +2,7 @@
 LinuxMint OS
 
 **Page created**: Thu 17th Aug 2023 06:21 AM GMT  
-**Last updated**: Mon 21st Jul 2025 13:05 PM GMT  
+**Last updated**: Wed 10th Sep 2025 01:57 AM GMT  
 
 -----
 
@@ -123,6 +123,13 @@ At the terminal just type in...
 Linux Mint Beginner Guide! (EVERYTHING you need to know to start with Linux Mint!) - (Channel: Linux for all)  
 - https://www.youtube.com/watch?v=ERvPga0sF8M
  
+-----
+
+## Software Manager
+
+FlatHub  
+- https://flathub.org/en  
+
 -----
 
 Linux Mint Cinnamon: 10 Things To Do After Installing - (Channel: Burn Barrel Media)  
