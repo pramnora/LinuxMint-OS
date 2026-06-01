@@ -223,11 +223,45 @@ I tried using Nano editor...which I was used to using inside of the Ubuntu Termi
 
 - https://github.com/linuxmint/xed - (xed, is a MDI/Multiple Document Interface, or, 'tabbed' text editor...; thus, allowing you to have open multiple different file types, all together at once; you can switch tab order by using simple 'drag and drop'; it also uses 'syntax highlighting' for: CSS/HTML/-etc. All of the normal text editing commands works: [CTRL]+[S] Save/[C] Copy/[X] Cut/[V] Paste/[Z] Undo/[Y] Redo/[N] New tab/[W] close current tab/[Q] Quit editor/-etc.) 
 
+
+#### Emacs
+
+#### ViM
+
 -----
 
 ### Programming
 
-- Python3, came automatically right out of the box.
+**NOTE**: Python3 programming language came pre-installed, automatically, right out of the box.  
+
+#### Loading and running Python3  
+
+Open the Terminal application window: [CTRL]+[ALT]+[T]; and, type the command:      
+> python3  
+...this will load up the Python3 programming language interpreter;   
+so that you can type in and run Python3 commands.  
+
+> print("Hello, world!") # then, press [ENTER]    
+> Hello, world! # output  
+
+**NOTE**: To quit from Python3 interpreter; type:  
+> exit()   
+
+#### Creating a Python3 program file(.py)/then, running it...   
+
+**NOTE**: Python3 programs files use filename extension: [.py]    
+
+> nano hw.py
+...opens up Nano Editor/and, also, loads in the chosen filename: [hw.py]...; type:  
+> print("Hello, world!")  
+...then, to quit Nano Editor:  
+[CTRL]+[X], then, [Y]  
+...to save the changes.  
+
+To run the file you've just created:  
+> python3 hw.py  
+...and, you should see the following output appear:  
+> Hello, world! 
 
 -----
 
