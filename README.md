@@ -6,18 +6,20 @@ LinuxMint OS
 
 -----
 
-**MY OWN SET UP**  
+**MY OWN COMPUTER SET UP**  
 
 010626
 
 Currently, using:-
 
-OS: Linux Mint
-Release: 22.3  
-Codename: Zena  
-Edition: Cinnamon  
-Desktop: Gnome  
-Toolkit: GTK   
+**OS**: Linux Mint
+**Release**: 22.3  
+**Codename**: Zena  
+**Edition**: Cinnamon  
+**Desktop**: Gnome  
+**Toolkit**: GTK   
+**RAM**: 8 GB
+**SSD**: 120 GB 
 
 -----
 
@@ -31,10 +33,10 @@ then, press [ENTER]...
 
 > cat / etc/issue  
 > cat /etc/linuxmint/info
+> cat /etc/os-release  
+> cat /etc/lsb-release   
 > lsb_release - a    
 > hostnamectl  
-> cat /etc/os-release  
-> cat /etc/lsb-release  
 
 GUI/Graphical User Interface  
 
@@ -44,105 +46,105 @@ which brings up an information box.
 -(**NOTE**: You can also select [Copy] option...; then, paste [CTRL]+[V] into a text editor application to see/read the full specs.)-  
 
 >>[code]
-System:
-  Kernel: 6.17.0-35-generic arch: x86_64 bits: 64 compiler: gcc v: 13.3.0 clocksource: tsc
-  Desktop: Cinnamon v: 6.6.7 tk: GTK v: 3.24.41 wm: Muffin v: 6.6.3 vt: 7 dm: LightDM v: 1.30.0
-    Distro: Linux Mint 22.3 Zena base: Ubuntu 24.04 noble
-Machine:
-  Type: Desktop System: Intel Client Systems product: NUC5i3RYH v: K23891-501
-    serial: <superuser required> Chassis: Intel Corporation type: 3 v: 2.0
-    serial: <superuser required>
-  Mobo: Intel model: NUC5i3RYB v: K23918-501 serial: <superuser required>
-    uuid: <superuser required> UEFI: Intel v: RYBDWi35.86A.0385.2020.0519.1558 date: 05/19/2020
-CPU:
+System:  
+  Kernel: 6.17.0-35-generic arch: x86_64 bits: 64 compiler: gcc v: 13.3.0 clocksource: tsc  
+  Desktop: Cinnamon v: 6.6.7 tk: GTK v: 3.24.41 wm: Muffin v: 6.6.3 vt: 7 dm: LightDM v: 1.30.0  
+    Distro: Linux Mint 22.3 Zena base: Ubuntu 24.04 noble  
+Machine:  
+  Type: Desktop System: Intel Client Systems product: NUC5i3RYH v: K23891-501  
+    serial: <superuser required> Chassis: Intel Corporation type: 3 v: 2.0  
+    serial: <superuser required>  
+  Mobo: Intel model: NUC5i3RYB v: K23918-501 serial: <superuser required>  
+    uuid: <superuser required> UEFI: Intel v: RYBDWi35.86A.0385.2020.0519.1558 date: 05/19/2020  
+CPU:  
   Info: dual core model: Intel Core i3-5005U bits: 64 type: MT MCP smt: enabled arch: Broadwell
-    rev: 4 cache: L1: 128 KiB L2: 512 KiB L3: 3 MiB
-  Speed (MHz): avg: 1896 min/max: 500/1900 cores: 1: 1896 2: 1896 3: 1896 4: 1896 bogomips: 15963
-  Flags: avx avx2 ht lm nx pae sse sse2 sse3 sse4_1 sse4_2 ssse3 vmx
-Graphics:
-  Device-1: Intel HD Graphics 5500 driver: i915 v: kernel arch: Gen-8 ports: active: HDMI-A-1
-    empty: DP-1,HDMI-A-2 bus-ID: 00:02.0 chip-ID: 8086:1616 class-ID: 0300
-  Device-2: Microdia USB 2.0 Camera driver: snd-usb-audio,uvcvideo type: USB rev: 2.0
-    speed: 480 Mb/s lanes: 1 bus-ID: 1-2:2 chip-ID: 0c45:636b class-ID: 0102 serial: <filter>
-  Display: x11 server: X.Org v: 21.1.11 with: Xwayland v: 23.2.6 driver: X: loaded: modesetting
-    unloaded: fbdev,vesa dri: iris gpu: i915 display-ID: :0 screens: 1
-  Screen-1: 0 s-res: 1600x1200 s-dpi: 96 s-size: 423x318mm (16.65x12.52") s-diag: 529mm (20.83")
-  Monitor-1: HDMI-A-1 mapped: HDMI-1 model: 48UHD_LCD_TV res: 1600x1200 hz: 60 dpi: 22
-    size: 1872x1053mm (73.7x41.46") diag: 1218mm (48") modes: max: 4096x2160 min: 720x400
-  API: EGL v: 1.5 hw: drv: intel iris platforms: device: 0 drv: iris device: 1 drv: swrast gbm:
-    drv: iris surfaceless: drv: iris x11: drv: iris inactive: wayland
-  API: OpenGL v: 4.6 compat-v: 4.5 vendor: intel mesa v: 25.2.8-0ubuntu0.24.04.1 glx-v: 1.4
-    direct-render: yes renderer: Mesa Intel HD Graphics 5500 (BDW GT2) device-ID: 8086:1616
-  API: Vulkan v: 1.3.275 layers: 3 surfaces: xcb,xlib device: 0 type: integrated-gpu driver: N/A
-    device-ID: 8086:1616 device: 1 type: cpu driver: N/A device-ID: 10005:0000
-Audio:
-  Device-1: Intel Broadwell-U Audio driver: snd_hda_intel v: kernel bus-ID: 00:03.0
-    chip-ID: 8086:160c class-ID: 0403
-  Device-2: Intel Wildcat Point-LP High Definition Audio driver: snd_hda_intel v: kernel
-    bus-ID: 00:1b.0 chip-ID: 8086:9ca0 class-ID: 0403
-  Device-3: Microdia USB 2.0 Camera driver: snd-usb-audio,uvcvideo type: USB rev: 2.0
-    speed: 480 Mb/s lanes: 1 bus-ID: 1-2:2 chip-ID: 0c45:636b class-ID: 0102 serial: <filter>
-  API: ALSA v: k6.17.0-35-generic status: kernel-api
-  Server-1: PipeWire v: 1.0.5 status: active with: 1: pipewire-pulse status: active
-    2: wireplumber status: active 3: pipewire-alsa type: plugin
-Network:
-  Device-1: Intel Ethernet I218-V driver: e1000e v: kernel port: 3080 bus-ID: 00:19.0
-    chip-ID: 8086:15a3 class-ID: 0200
-  IF: enp0s25 state: up speed: 1000 Mbps duplex: full mac: <filter>
-  Device-2: Intel Wireless 7265 driver: iwlwifi v: kernel pcie: speed: 2.5 GT/s lanes: 1
-    bus-ID: 02:00.0 chip-ID: 8086:095a class-ID: 0280
-  IF: wlp2s0 state: up mac: <filter>
-Bluetooth:
-  Device-1: Intel Bluetooth wireless interface driver: btusb v: 0.8 type: USB rev: 2.0
-    speed: 12 Mb/s lanes: 1 bus-ID: 1-7:5 chip-ID: 8087:0a2a class-ID: e001
-  Report: hciconfig ID: hci0 rfk-id: 0 state: up address: <filter> bt-v: 4.2 lmp-v: 8 sub-v: 1000
-    hci-v: 8 rev: 1000 class-ID: 7c0104
-Drives:
-  Local Storage: total: 111.79 GiB used: 34.17 GiB (30.6%)
-  ID-1: /dev/sda vendor: Kingston model: SV300S37A120G size: 111.79 GiB speed: 6.0 Gb/s tech: SSD
-    serial: <filter> fw-rev: BBF0 scheme: GPT
-Partition:
-  ID-1: / size: 108.98 GiB used: 34.16 GiB (31.3%) fs: ext4 dev: /dev/sda2
-  ID-2: /boot/efi size: 511 MiB used: 6.1 MiB (1.2%) fs: vfat dev: /dev/sda1
-Swap:
-  ID-1: swap-1 type: file size: 2 GiB used: 1.86 GiB (92.8%) priority: -2 file: /swapfile
-USB:
-  Hub-1: 1-0:1 info: hi-speed hub with single TT ports: 11 rev: 2.0 speed: 480 Mb/s lanes: 1
-    chip-ID: 1d6b:0002 class-ID: 0900
-  Device-1: 1-2:2 info: Microdia USB 2.0 Camera type: video,audio driver: snd-usb-audio,uvcvideo
-    interfaces: 4 rev: 2.0 speed: 480 Mb/s lanes: 1 power: 500mA chip-ID: 0c45:636b class-ID: 0102
-    serial: <filter>
-  Device-2: 1-3:3 info: China Resource Semico USB Keyboard type: keyboard,mouse
-    driver: hid-generic,usbhid interfaces: 2 rev: 1.1 speed: 1.5 Mb/s lanes: 1 power: 500mA
-    chip-ID: 1a2c:4c5e class-ID: 0301
-  Device-3: 1-4:4 info: Silicon Labs USB OPTICAL MOUSE type: mouse driver: hid-generic,usbhid
-    interfaces: 1 rev: 2.0 speed: 1.5 Mb/s lanes: 1 power: 100mA chip-ID: 10c4:0005 class-ID: 0301
-  Device-4: 1-7:5 info: Intel Bluetooth wireless interface type: bluetooth driver: btusb
-    interfaces: 2 rev: 2.0 speed: 12 Mb/s lanes: 1 power: 100mA chip-ID: 8087:0a2a class-ID: e001
-  Hub-2: 2-0:1 info: full speed or root hub ports: 2 rev: 2.0 speed: 480 Mb/s lanes: 1
-    chip-ID: 1d6b:0002 class-ID: 0900
-  Hub-3: 2-1:2 info: Intel Integrated Hub ports: 8 rev: 2.0 speed: 480 Mb/s lanes: 1
-    chip-ID: 8087:8001 class-ID: 0900
-  Hub-4: 3-0:1 info: super-speed hub ports: 4 rev: 3.0 speed: 5 Gb/s lanes: 1 chip-ID: 1d6b:0003
-    class-ID: 0900
-Sensors:
-  System Temperatures: cpu: 46.0 C mobo: N/A
-  Fan Speeds (rpm): N/A
-Repos:
-  Packages: pm: dpkg pkgs: 2076
-  No active apt repos in: /etc/apt/sources.list
-  Active apt repos in: /etc/apt/sources.list.d/official-package-repositories.list
-    1: deb https: //mirror.cov.ukservers.com/linuxmint zena main upstream import backport
-    2: deb http: //archive.ubuntu.com/ubuntu noble main restricted universe multiverse
-    3: deb http: //archive.ubuntu.com/ubuntu noble-updates main restricted universe multiverse
-    4: deb http: //archive.ubuntu.com/ubuntu noble-backports main restricted universe multiverse
-    5: deb http: //security.ubuntu.com/ubuntu/ noble-security main restricted universe multiverse
-Info:
-  Memory: total: 8 GiB available: 7.64 GiB used: 6.44 GiB (84.3%)
-  Processes: 257 Power: uptime: 17h 39m states: freeze,mem,disk suspend: deep wakeups: 0
-    hibernate: platform Init: systemd v: 255 target: graphical (5) default: graphical
-  Compilers: gcc: 13.3.0 Client: Unknown python3.12 client inxi: 3.3.34
-[/code]
+    rev: 4 cache: L1: 128 KiB L2: 512 KiB L3: 3 MiB  
+  Speed (MHz): avg: 1896 min/max: 500/1900 cores: 1: 1896 2: 1896 3: 1896 4: 1896 bogomips: 15963  
+  Flags: avx avx2 ht lm nx pae sse sse2 sse3 sse4_1 sse4_2 ssse3 vmx  
+Graphics:  
+  Device-1: Intel HD Graphics 5500 driver: i915 v: kernel arch: Gen-8 ports: active: HDMI-A-1  
+    empty: DP-1,HDMI-A-2 bus-ID: 00:02.0 chip-ID: 8086:1616 class-ID: 0300  
+  Device-2: Microdia USB 2.0 Camera driver: snd-usb-audio,uvcvideo type: USB rev: 2.0  
+    speed: 480 Mb/s lanes: 1 bus-ID: 1-2:2 chip-ID: 0c45:636b class-ID: 0102 serial: <filter>  
+  Display: x11 server: X.Org v: 21.1.11 with: Xwayland v: 23.2.6 driver: X: loaded: modesetting  
+    unloaded: fbdev,vesa dri: iris gpu: i915 display-ID: :0 screens: 1  
+  Screen-1: 0 s-res: 1600x1200 s-dpi: 96 s-size: 423x318mm (16.65x12.52") s-diag: 529mm (20.83")  
+  Monitor-1: HDMI-A-1 mapped: HDMI-1 model: 48UHD_LCD_TV res: 1600x1200 hz: 60 dpi: 22  
+    size: 1872x1053mm (73.7x41.46") diag: 1218mm (48") modes: max: 4096x2160 min: 720x400  
+  API: EGL v: 1.5 hw: drv: intel iris platforms: device: 0 drv: iris device: 1 drv: swrast gbm:  
+    drv: iris surfaceless: drv: iris x11: drv: iris inactive: wayland  
+  API: OpenGL v: 4.6 compat-v: 4.5 vendor: intel mesa v: 25.2.8-0ubuntu0.24.04.1 glx-v: 1.4  
+    direct-render: yes renderer: Mesa Intel HD Graphics 5500 (BDW GT2) device-ID: 8086:1616  
+  API: Vulkan v: 1.3.275 layers: 3 surfaces: xcb,xlib device: 0 type: integrated-gpu driver: N/A  
+    device-ID: 8086:1616 device: 1 type: cpu driver: N/A device-ID: 10005:0000  
+Audio:  
+  Device-1: Intel Broadwell-U Audio driver: snd_hda_intel v: kernel bus-ID: 00:03.0  
+    chip-ID: 8086:160c class-ID: 0403  
+  Device-2: Intel Wildcat Point-LP High Definition Audio driver: snd_hda_intel v: kernel  
+    bus-ID: 00:1b.0 chip-ID: 8086:9ca0 class-ID: 0403  
+  Device-3: Microdia USB 2.0 Camera driver: snd-usb-audio,uvcvideo type: USB rev: 2.0  
+    speed: 480 Mb/s lanes: 1 bus-ID: 1-2:2 chip-ID: 0c45:636b class-ID: 0102 serial: <filter>  
+  API: ALSA v: k6.17.0-35-generic status: kernel-api  
+  Server-1: PipeWire v: 1.0.5 status: active with: 1: pipewire-pulse status: active  
+    2: wireplumber status: active 3: pipewire-alsa type: plugin  
+Network:  
+  Device-1: Intel Ethernet I218-V driver: e1000e v: kernel port: 3080 bus-ID: 00:19.0  
+    chip-ID: 8086:15a3 class-ID: 0200  
+  IF: enp0s25 state: up speed: 1000 Mbps duplex: full mac: <filter>  
+  Device-2: Intel Wireless 7265 driver: iwlwifi v: kernel pcie: speed: 2.5 GT/s lanes: 1  
+    bus-ID: 02:00.0 chip-ID: 8086:095a class-ID: 0280  
+  IF: wlp2s0 state: up mac: <filter>  
+Bluetooth:  
+  Device-1: Intel Bluetooth wireless interface driver: btusb v: 0.8 type: USB rev: 2.0  
+    speed: 12 Mb/s lanes: 1 bus-ID: 1-7:5 chip-ID: 8087:0a2a class-ID: e001  
+  Report: hciconfig ID: hci0 rfk-id: 0 state: up address: <filter> bt-v: 4.2 lmp-v: 8 sub-v: 1000  
+    hci-v: 8 rev: 1000 class-ID: 7c0104  
+Drives:  
+  Local Storage: total: 111.79 GiB used: 34.17 GiB (30.6%)  
+  ID-1: /dev/sda vendor: Kingston model: SV300S37A120G size: 111.79 GiB speed: 6.0 Gb/s tech: SSD  
+    serial: <filter> fw-rev: BBF0 scheme: GPT  
+Partition:  
+  ID-1: / size: 108.98 GiB used: 34.16 GiB (31.3%) fs: ext4 dev: /dev/sda2  
+  ID-2: /boot/efi size: 511 MiB used: 6.1 MiB (1.2%) fs: vfat dev: /dev/sda1  
+Swap:  
+  ID-1: swap-1 type: file size: 2 GiB used: 1.86 GiB (92.8%) priority: -2 file: /swapfile  
+USB:  
+  Hub-1: 1-0:1 info: hi-speed hub with single TT ports: 11 rev: 2.0 speed: 480 Mb/s lanes: 1  
+    chip-ID: 1d6b:0002 class-ID: 0900  
+  Device-1: 1-2:2 info: Microdia USB 2.0 Camera type: video,audio driver: snd-usb-audio,uvcvideo  
+    interfaces: 4 rev: 2.0 speed: 480 Mb/s lanes: 1 power: 500mA chip-ID: 0c45:636b class-ID: 0102  
+    serial: <filter>  
+  Device-2: 1-3:3 info: China Resource Semico USB Keyboard type: keyboard,mouse  
+    driver: hid-generic,usbhid interfaces: 2 rev: 1.1 speed: 1.5 Mb/s lanes: 1 power: 500mA  
+    chip-ID: 1a2c:4c5e class-ID: 0301  
+  Device-3: 1-4:4 info: Silicon Labs USB OPTICAL MOUSE type: mouse driver: hid-generic,usbhid  
+    interfaces: 1 rev: 2.0 speed: 1.5 Mb/s lanes: 1 power: 100mA chip-ID: 10c4:0005 class-ID: 0301  
+  Device-4: 1-7:5 info: Intel Bluetooth wireless interface type: bluetooth driver: btusb  
+    interfaces: 2 rev: 2.0 speed: 12 Mb/s lanes: 1 power: 100mA chip-ID: 8087:0a2a class-ID: e001  
+  Hub-2: 2-0:1 info: full speed or root hub ports: 2 rev: 2.0 speed: 480 Mb/s lanes: 1  
+    chip-ID: 1d6b:0002 class-ID: 0900    
+  Hub-3: 2-1:2 info: Intel Integrated Hub ports: 8 rev: 2.0 speed: 480 Mb/s lanes: 1    
+    chip-ID: 8087:8001 class-ID: 0900  
+  Hub-4: 3-0:1 info: super-speed hub ports: 4 rev: 3.0 speed: 5 Gb/s lanes: 1 chip-ID: 1d6b:0003  
+    class-ID: 0900  
+Sensors:  
+  System Temperatures: cpu: 46.0 C mobo: N/A  
+  Fan Speeds (rpm): N/A  
+Repos:  
+  Packages: pm: dpkg pkgs: 2076  
+  No active apt repos in: /etc/apt/sources.list  
+  Active apt repos in: /etc/apt/sources.list.d/official-package-repositories.list  
+    1: deb https: //mirror.cov.ukservers.com/linuxmint zena main upstream import backport  
+    2: deb http: //archive.ubuntu.com/ubuntu noble main restricted universe multiverse  
+    3: deb http: //archive.ubuntu.com/ubuntu noble-updates main restricted universe multiverse  
+    4: deb http: //archive.ubuntu.com/ubuntu noble-backports main restricted universe multiverse  
+    5: deb http: //security.ubuntu.com/ubuntu/ noble-security main restricted universe multiverse  
+Info:  
+  Memory: total: 8 GiB available: 7.64 GiB used: 6.44 GiB (84.3%)  
+  Processes: 257 Power: uptime: 17h 39m states: freeze,mem,disk suspend: deep wakeups: 0  
+    hibernate: platform Init: systemd v: 255 target: graphical (5) default: graphical  
+  Compilers: gcc: 13.3.0 Client: Unknown python3.12 client inxi: 3.3.34  
+[/code]  
 <<
 
 -----
