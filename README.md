@@ -329,6 +329,9 @@ Linux Mint tips everyone should know - For beginners - (Channel: Linux Ort)
 Optimize Linux Mint: Must-Do Tweaks After Setup - (Channel: NH Soft)  
 - https://www.youtube.com/watch?v=D9OfpxFgR08
 
+7 More Hidden Linux Mint Features You Didn't Know Existed - (Channel: Love Linux Mint)  
+- https://www.youtube.com/watch?v=Iip6c2OioN8  
+
 9 Things To Do After Installing Linux ... - (Channel: Michael Horn)  
 - https://www.youtube.com/watch?v=XYDQK5i0tmY  
 
