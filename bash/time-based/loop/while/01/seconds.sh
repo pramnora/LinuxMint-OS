@@ -6,7 +6,7 @@
 # https://gemini.google.com
 
 # ------------------------------------------------------------------------------
-# First, create a log file called: seconds.log, by using command:
+# First, create an 'empty' log file called: seconds.log, by using command:
 # touch seconds.log
 # ...as this is the file the program expects to find in order to send it's output to.
 
