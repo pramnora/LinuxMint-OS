@@ -1,4 +1,4 @@
-# bash scripting  
+# bash shell scripting  
 
 check for what is the current shell  
 
