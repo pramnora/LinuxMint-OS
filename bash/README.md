@@ -12,7 +12,7 @@ Check for what is the current shell...; normally, this will display as: bash.
 
 **NOTE(1)**: Bash script files are saved using filename.extension: [.sh]  
 
-**NOTE(2)**: Bash script files also start with the line:   
+**NOTE(2)**: Bash script files begins with the line:   
 
 > #!/bin/bash  
 
