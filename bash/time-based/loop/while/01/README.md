@@ -8,3 +8,5 @@
 
 ![overwrite file: seconds.log; then, show 'blank' output](pictures/100726-1107-overwrite-seconds-log.png "overwrite file: seconds.log; then, show 'blank' output")
 
+![clear log file/and, show 'blank' output](pictures/100726-1123-clear-log-file.png "clear log file/and, show 'blank' output")
+
