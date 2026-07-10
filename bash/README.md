@@ -22,29 +22,39 @@ Check for what is the current shell...; normally, this will display as: bash.
 
 ## Let's write/save/make executable/run our 1st bash script file: hw.sh  
 
-1. Open Nano *text editor* software application;     
-   and, then, pass into it the name of our bash script file:  
+1. First, inside of Linux OS/Operating System...;   
+   open up a new Terminal window...into which we can type commands.  
+
+Keyboard shortcut: [CTRL] + [ALT] + [T]
+
+2. Then, issue a command to open Nano *text editor* software application;       
+   and, also, pass into it the name of our bash script file that we wish to create:    
 
 nano hw.sh
 
-2. Inside of Linux Nano *text editor* application,  
-write a list of bash scripting commands that are each to be carried out.          
+3. Inside of Linux Nano *text editor* application,  
+write a list of bash scripting commands that are each to be carried out going in succession.          
 
--(These commands may be either a single command/or else, a list of multiple commands, instead;   
+-(These commands may be either a single command all on it's own/  
+   or else, a list of multiple commands, instead;   
   each command is written down going just one single line at a time.)-  
 
 > #!/bin/bash  
 > echo "Hello. world!"  
 
-3. Save the file as being called: hw.sh  
+4. Save the file as being called: hw.sh  
 
-4. Next, make the script executable:     
+Keyboard shortcut: [CTRL]+[X]...will ask if you wish to save the file by listing it's name; then, press key [Y] to confirm.  
+
+When you have pressed key: [Y] you will quit Nano editor; and, be returned back to the CLI/Command Line Interface Terminal window. 
+
+5. Next, make the script executable:     
 
 > chmod u+x hw.sh  
 
 -(If the script hasn't actually been given executable privilege...; then, it **won't** run...?!)-  
 
-5. Finally, call/or, run the script using:  
+6. Finally, call/or, run the script using:  
 
 > ./hw.sh  
 
