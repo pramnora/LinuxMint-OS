@@ -10,20 +10,21 @@ Bash script files also start with the line:
 
 > #!/bin/bash  
 
-For example,...  
+1. Write the bash script file...adding inside there commands to be carried out.  
+-(These commands may be either single/or else, multiple, instead.)-  
 
 > #!/bin/bash  
 > echo "Hello. world!"  
 
-...save the file as being called: hw.sh  
+2. Save the file as being called: hw.sh  
 
 ...to run the bash script commands contained within the file...  
 
-1. make the script executable  
+3. Make the script executable  
 
 > chmod u+x hw.sh  
 
-...next, call the script using:  
+4. Finally, call the script using:  
 
 > ./hw.sh  
 
