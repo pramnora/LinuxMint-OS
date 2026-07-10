@@ -6,9 +6,13 @@ Check for what is the current shell...; normally, this will display as: bash.
 
 ![Show what is the current shell](pictures/100726-0216-show-current-shell.png "Show what is the current shell")
 
-Bash script files are saved using filename.extension: [.sh]  
+-----
 
-Bash script files also start with the line:   
+## Writing bash script files [.sh]  
+
+**NOTE(1)**: Bash script files are saved using filename.extension: [.sh]  
+
+**NOTE(2)**: Bash script files also start with the line:   
 
 > #!/bin/bash  
 
