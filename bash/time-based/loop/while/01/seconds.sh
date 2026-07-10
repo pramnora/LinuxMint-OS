@@ -32,5 +32,14 @@ while true; do date >> /home/pmr/scripts/seconds.log; sleep 1; done
 #       called: seconds.log, by using command:
 #       cat seconds.log
 
+# The date output shows as...recording every single second:
+
+# Fri 10 Jul 04:24:01 BST 2026
+# Fri 10 Jul 04:24:02 BST 2026
+# Fri 10 Jul 04:24:03 BST 2026
+# Fri 10 Jul 04:24:04 BST 2026
+# Fri 10 Jul 04:24:05 BST 2026
+
+
 #       To clear out the contents of: seconds.log, you can use the command:
 #       echo > seconds.log
