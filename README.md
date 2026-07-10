@@ -2,7 +2,7 @@
 LinuxMint OS
 
 **Page created**: Thu 17 Aug 2023 06:21 AM GMT  
-**Last updated**: Tue 7 Jul 2026 05:09 AM GMT 
+**Last updated**: Fri 10 Jul 2026 01:11 AM GMT 
 
 -----
 
@@ -217,7 +217,7 @@ I found it was very important to access System Settings...
 
 #### Nano
 
-I tried using Nano editor...which I was used to using inside of the Ubuntu Terminal. Yes, everything just like usual.  
+I tried using Nano editor...which I was used to using inside of the Ubuntu Terminal. Yes, everything works just like usual.  
 
 #### Xed
 
@@ -293,6 +293,18 @@ At the terminal just type in...
 ...and, then, when you press the [Enter] key...that web page will load up inside of your Firefox web browser ready for viewing.  
 
 -----
+
+### Installing software  
+
+#### Install libnotify-bin  
+
+This sends messages in a bubble.  
+
+> sudo apt install libnotify-bin -y  
+
+...to test out that it works...  
+
+> notify-send "Title text" "Output message text"  
 
 ## YouTube Videos
 
