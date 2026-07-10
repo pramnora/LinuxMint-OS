@@ -10,7 +10,7 @@ Bash script files also start with the line:
 
 > #!/bin/bash  
 
-1. Write the bash script file...adding inside there commands to be carried out.  
+1. Write the bash script file...adding inside there a list of bash scripting commands to be carried out.  
 -(These commands may be either single/or else, multiple, instead.)-  
 
 > #!/bin/bash  
