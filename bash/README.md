@@ -22,7 +22,7 @@ Check for what is the current shell...; normally, this will display as: bash.
 
 ## Let's write/save/make executable/run our 1st bash script file: hw.sh  
 
-1. Open Nano *text editor' software application;     
+1. Open Nano *text editor* software application;     
    and, then, pass into it the name of our bash script file:  
 
 nano hw.sh
