@@ -30,8 +30,8 @@ nano hw.sh
 2. Inside of Linux Nano *text editor* application,  
 write a list of bash scripting commands that are each to be carried out.          
 
--(These commands may be either a single command/or else, multiple commands, instead;   
-  each command is written down going one single line at a time.)-  
+-(These commands may be either a single command/or else, a list of multiple commands, instead;   
+  each command is written down going just one single line at a time.)-  
 
 > #!/bin/bash  
 > echo "Hello. world!"  
