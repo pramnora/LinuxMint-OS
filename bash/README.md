@@ -32,12 +32,12 @@ Keyboard shortcut: [CTRL] + [ALT] + [T]
 
 nano hw.sh
 
-3. Inside of Linux Nano *text editor* application,  
+3. Inside of the *blank* Nano text editor screen,    
 write a list of bash scripting commands that are each to be carried out going in succession.          
 
--(These commands may be either a single command all on it's own/  
+-(These commands may be either a single bash script command being written all on it's own/    
    or else, a list of multiple commands, instead;   
-  each command is written down going just one single line at a time.)-  
+  each command is written down going just one single line at a time underneath one another.)-  
 
 > #!/bin/bash  
 > echo "Hello. world!"  
@@ -52,7 +52,7 @@ When you have pressed key: [Y] you will quit Nano editor; and, be returned back 
 
 > chmod u+x hw.sh  
 
--(If the script hasn't actually been given executable privilege...; then, it **won't** run...?!)-  
+-(If the script hasn't actually been given *executable* privilege...; then, it **won't** run...?!)-  
 
 6. Finally, call/or, run the script using:  
 
