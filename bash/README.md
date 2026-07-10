@@ -20,7 +20,7 @@ Bash script files also start with the line:
 
 ...to run the bash script commands contained within the file...  
 
-3. Make the script executable  
+3. Next, make the script executable:     
 
 > chmod u+x hw.sh  
 
