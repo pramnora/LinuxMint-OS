@@ -1,6 +1,6 @@
 # bash shell scripting  
 
-Check for what is the current shell...; normally, this would be: bash.  
+Check for what is the current shell...; normally, this will display as: bash.  
 
 > echo $0  
 
