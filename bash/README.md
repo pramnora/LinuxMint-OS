@@ -16,8 +16,9 @@ Check for what is the current shell...; normally, this will display as: bash.
 
 > #!/bin/bash  
 
-
 -----
+
+## Let's write/save/make executable/run our 1st bash script file: hw.sh  
 
 1. Write the bash script file...adding inside there a list of bash scripting commands to be carried out.  
 -(These commands may be either single/or else, multiple, instead.)-  
