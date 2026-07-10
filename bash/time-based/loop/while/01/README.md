@@ -5,3 +5,6 @@
 ![run file: seconds.sh](pictures/100726-1058-run-file.png "run file: seconds.sh")
 
 ![show file: seconds.sh, output](pictures/100726-1013-seconds-o.png "show file: seconds.sh, output")
+
+![overwrite file: seconds.log; then, show 'blank' output](pictures/100726-1107-overwrite-seconds-log.png "overwrite file: seconds.log; then, show 'blank' output")
+
