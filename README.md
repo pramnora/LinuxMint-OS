@@ -306,6 +306,42 @@ This sends messages in a bubble.
 
 > notify-send "Title text" "Output message text"  
 
+-----
+
+### Setting Chron jobs  
+
+Cron jobs, allows you to set up 'automatic' regular scheduled jobs.  
+
+> cronjob -e  
+
+...then, scroll down to the bottom of the comments...; and, add the line:  
+
+> 0 2 * * * date >> /home/pmr/test.log  
+
+The above code will long what is the current date to a file called: test.log at every 2 AM.  
+
+**NOTE**: Make sure that the file: test.log, exists, first; by creating it by using the following command:  
+
+> touch test.log  
+
+To edit chronjob file...  
+
+> chronjob -e  
+
+To list 'all' chrojobs...  
+
+> cronjob  -l  
+
+To remove the last cronjob...  
+  
+> chonjob -r    
+
+-----
+
+## Links 
+
+-----
+
 ## YouTube Videos
 
 Linux Mint Beginner Guide! (EVERYTHING you need to know to start with Linux Mint!) - (Channel: Linux for all)  
@@ -322,7 +358,6 @@ FlatHub
 
 - https://github.com/nokse22  (Mini Text/Wed 100925/Clipboard viewer)  
 - https://gitlab.gnome.org/Bharatkalluri/short-circuit  (Short-Circuit/Wed 100925/Clipboard encoder-decoder)  
-
 
 -----
 
