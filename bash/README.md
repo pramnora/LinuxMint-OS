@@ -1,14 +1,17 @@
 # bash shell scripting  
 
-check for what is the current shell  
+Check for what is the current shell...; normally, this would be: bash.  
 
 > echo $0  
+
+![Show what is the current shell](pictures/100726-0216-show-current-shell.png "Show what is the current shell")
 
 Bash script files are saved using filename.extension: [.sh]  
 
 Bash script files also start with the line:   
 
 > #!/bin/bash  
+
 
 -----
 
