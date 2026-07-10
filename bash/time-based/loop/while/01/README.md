@@ -2,6 +2,6 @@
 
 ![make-script-executable](pictures/100726-1051-make-script-executable.png "make script executable")
 
-![run file: seconds.sh](pictures/100726-1052-file-run.png "run file: seconds.sh")
+![run file: seconds.sh](pictures/100726-1058-run-file.png "run file: seconds.sh")
 
 ![show file: seconds.sh, output](pictures/100726-1013-seconds-o.png "show file: seconds.sh, output")
